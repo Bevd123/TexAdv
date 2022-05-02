@@ -1,0 +1,8 @@
+C:\Users\Raphi\source\repos\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\Raphi\source\repos\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Raphi\source\repos\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Raphi\source\repos\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\Raphi\source\repos\RPG\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raphi\source\repos\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Raphi\source\repos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\Raphi\source\repos\RPG\RPG\obj\Debug\RPG.pdb
